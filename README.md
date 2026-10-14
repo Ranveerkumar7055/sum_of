@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ranveerkumar7055/sum_of/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
